@@ -362,3 +362,4 @@ export const AdmissionSection: React.FC<AdmissionSectionProps> = ({
     </section>
   );
 };
+
